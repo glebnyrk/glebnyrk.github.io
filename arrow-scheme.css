@@ -1,0 +1,41 @@
+div.off {
+    background-color: white;
+}
+
+div.unreachable {
+    background-color: #9b9b9b;
+}
+
+div.red {
+    background-color: #a70800;
+}
+
+div.orange {
+    background-color: #ff8100;
+}
+
+div.blue {
+    background-color: #0c0084;
+}
+
+div.yellow {
+    background-color: #fffa00;
+}
+div.cell{
+    margin: 1%;
+    border-radius: 25%;
+    height: 30px;
+    aspect-ratio: 1;
+}
+.table {
+    height: fit-content;
+    width: fit-content;
+    margin: 3px;
+}
+
+.ground {
+    background-color: #a7a7a7;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 5%;
+}
